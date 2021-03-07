@@ -2,64 +2,64 @@
   "chords": [
     {
       "intervals": [0, 4, 7],
-      "name": "",
+      "sign": "", name : "major",
       "color": 0,
       "tonic": 0
     },
     {
       "intervals": [0, 3, 8],
-      "name": "",
+      "sign": "", name : "major",
       "color": 3,
       "tonic": 2
     },
     {
       "intervals": [0, 5, 9],
-      "name": "",
+      "sign": "", name : "major",
       "color": 5,
       "tonic": 1
     },
     
     {
       "intervals": [0, 3, 7],
-      "name": "m",
+      "sign": "m", name : "minor",
       "color": 0,
       "tonic": 0
     },
     {
       "intervals": [0, 4, 9],
-      "name": "m",
+      "sign": "m", name : "minor",
       "color": 3,
       "tonic": 2
     },
     {
       "intervals": [0, 5, 8],
-      "name": "m",
+      "sign": "m", name : "minor",
       "color": 5,
       "tonic": 1
     },
     
     {
       "intervals": [0, 4, 8],
-      "name": "⁺",
+      "sign": "⁺", name : "augmented",
       "color": 0,
       "tonic": 0
     },
     
     {
       "intervals": [0, 3, 6],
-      "name": "ᵒ",
+      "sign": "ᵒ", name : "diminshed",
       "color": 0,
       "tonic": 0
     },
     {
       "intervals": [0, 3, 9],
-      "name": "ᵒ",
+      "sign": "ᵒ", name : "diminished",
       "color": 3,
       "tonic": 2
     },
     {
       "intervals": [0, 6, 9],
-      "name": "ᵒ",
+      "sign": "ᵒ", name : "diminished",
       "color": 5,
       "tonic": 1
     }
