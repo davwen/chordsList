@@ -1,5 +1,5 @@
 {
-  "words": [
+  "chords": [
     {
       "word": "bil",
       "gender": "en",
@@ -9,21 +9,6 @@
       "word": "hus",
       "gender": "ett",
       "plural": "hus"
-    },
-    {
-      "word": "bord",
-      "gender": "ett",
-      "plural": "bord"
-    },
-    {
-      "word": "bord",
-      "gender": "ett",
-      "plural": "bord"
-    },
-    {
-      "word": "katt",
-      "gender": "en",
-      "plural": "katter"
     }
   ]
 }
