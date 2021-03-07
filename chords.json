@@ -2,8 +2,9 @@
   "chords": [
     {
       "intervals": "[0, 4, 7]",
-      "gender": "en",
-      "plural": "bilar"
+      "name": "",
+      "color": "0",
+      "tonic": "0"
     },
     {
       "word": "hus",
