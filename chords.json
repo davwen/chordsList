@@ -36,6 +36,32 @@
       "name": "m",
       "color": 5,
       "tonic": 1
+    },
+    
+    {
+      "intervals": [0, 4, 8],
+      "name": "augmented",
+      "color": 0,
+      "tonic": 0
+    },
+    
+    {
+      "intervals": [0, 3, 6],
+      "name": "dim",
+      "color": 0,
+      "tonic": 0
+    },
+    {
+      "intervals": [0, 3, 9],
+      "name": "dim",
+      "color": 3,
+      "tonic": 2
+    }
+    {
+      "intervals": [0, 6, 9],
+      "name": "dim",
+      "color": 5,
+      "tonic": 1
     }
   ]
 }
