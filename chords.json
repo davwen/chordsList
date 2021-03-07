@@ -1,10 +1,10 @@
 {
   "chords": [
     {
-      intervals: [0, 4, 7], 
-      name: "", 
-      color: 0, 
-      tonic: 0
+      "intervals": [0, 4, 7], 
+      "name": "", 
+      "color": 0, 
+      "tonic": 0
     }
   ]
 }
