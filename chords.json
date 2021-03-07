@@ -32,7 +32,7 @@
       "tonic": 2
     },
     {
-      "intervals": [0, 5, 8,
+      "intervals": [0, 5, 8],
       "name": "m",
       "color": 5,
       "tonic": 1
