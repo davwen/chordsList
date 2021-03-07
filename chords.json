@@ -1,10 +1,29 @@
 {
-  "chords": [
+  "words": [
     {
-      "intervals": "[0, 4, 7]", 
-      "name": "", 
-      "color": "0", 
-      "tonic": "0"
+      "word": "bil",
+      "gender": "en",
+      "plural": "bilar"
+    },
+    {
+      "word": "hus",
+      "gender": "ett",
+      "plural": "hus"
+    },
+    {
+      "word": "bord",
+      "gender": "ett",
+      "plural": "bord"
+    },
+    {
+      "word": "bord",
+      "gender": "ett",
+      "plural": "bord"
+    },
+    {
+      "word": "katt",
+      "gender": "en",
+      "plural": "katter"
     }
   ]
 }
