@@ -1,7 +1,7 @@
 {
   "chords": [
     {
-      "word": "bil",
+      "intervals": "[0, 4, 7]",
       "gender": "en",
       "plural": "bilar"
     },
