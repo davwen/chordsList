@@ -173,25 +173,25 @@
     
     {
       "intervals": [0, 3, 6, 10],
-      "sign": "ø⁷", "name" : "Half diminished 7",
+      "sign": "ø⁷", "name" : "half diminished 7",
       "color": 0,
       "tonic": 0
     },
     {
       "intervals": [0, 3, 7, 9],
-      "sign": "ø⁷", "name" : "Half diminished 7",
+      "sign": "ø⁷", "name" : "half diminished 7",
       "color": 3,
       "tonic": 3
     },
     {
       "intervals": [0, 4, 6, 9],
-      "sign": "ø⁷", "name" : "Half diminished 7",
+      "sign": "ø⁷", "name" : "half diminished 7",
       "color": 5,
       "tonic": 2
     },
     {
       "intervals": [0, 2, 5, 8],
-      "sign": "ø⁷", "name" : "Half diminished 7",
+      "sign": "ø⁷", "name" : "half diminished 7",
       "color": 7,
       "tonic": 1
     },
