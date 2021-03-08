@@ -40,7 +40,7 @@
     
     {
       "intervals": [0, 4, 8],
-      "sign": "⁺", "name" : "augmented",
+      "sign": "aug", "name" : "augmented",
       "color": 0,
       "tonic": 0
     },
@@ -110,6 +110,63 @@
     {
       "intervals": [0, 2, 5, 9],
       "sign": "m7", "name" : "minor7",
+      "color": 7,
+      "tonic": 1
+    },
+    
+    {
+      "intervals": [0, 4, 7, 10],
+      "sign": "7", "name" : "dominant 7",
+      "color": 0,
+      "tonic": 0
+    },
+    {
+      "intervals": [0, 3, 6, 8],
+      "sign": "7", "name" : "dominant 7",
+      "color": 3,
+      "tonic": 3
+    },
+    {
+      "intervals": [0, 3, 5, 9],
+      "sign": "7", "name" : "dominant 7",
+      "color": 5,
+      "tonic": 2
+    },
+    {
+      "intervals": [0, 2, 6, 9],
+      "sign": "7", "name" : "dominant 7",
+      "color": 7,
+      "tonic": 1
+    },
+    
+    {
+      "intervals": [0, 3, 6, 9],
+      "sign": "dim⁷", "name" : "diminished 7",
+      "color": 0,
+      "tonic": 0
+    },
+   
+    {
+      "intervals": [0, 4, 8, 11],
+      "sign": "augᴹ⁷", "name" : "augmented major 7",
+      "color": 0,
+      "tonic": 0
+    },
+    {
+      "intervals": [0, 4, 7, 8],
+      "sign": "augᴹ⁷", "name" : "augmented major 7",
+      "color": 3,
+      "tonic": 3
+    },
+    {
+      "intervals": [0, 3, 4, 8],
+      "sign": "augᴹ⁷", "name" : "augmented major 7",
+      "color": 5,
+      "tonic": 2
+    },
+    {
+      "intervals": [0, 1, 5, 9],
+      "sign": "augᴹ⁷", "name" : "augmented major 7",
       "color": 7,
       "tonic": 1
     }
