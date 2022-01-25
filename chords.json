@@ -247,7 +247,7 @@
     },
     
     {
-      "intervals": [0, 4, 7, 11, 14],
+      "intervals": [0, 2, 4, 7, 11],
       "sign": "maj⁹", "name" : "major 9",
       "color": 0,
       "tonic": 0
